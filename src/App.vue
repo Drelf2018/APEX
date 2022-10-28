@@ -39,18 +39,18 @@ export default {
       title: null,
       scores: [
         [
-          {rank: 1, teamicon: "src/assets/logo.png", teamname: "TSM", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 12, kills: 9},
-          {rank: 2, teamicon: "src/assets/logo.png", teamname: "NRG", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 9, kills: 6},
-          {rank: 3, teamicon: "src/assets/logo.png", teamname: "AD", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 7, kills: 6},
-          {rank: 4, teamicon: "src/assets/logo.png", teamname: "SINGULARITY", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 5, kills: 1},
-          {rank: 5, teamicon: "src/assets/logo.png", teamname: "CLOUD9", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 4, kills: 6},
+          {rank: 1, teamicon: "https://air-marketing-assets.imgix.net/blog/logo-db/apex-legends-logo/apex-legends-logo-svg-3.svg", teamname: "TSM", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 12, kills: 9},
+          {rank: 2, teamicon: "https://air-marketing-assets.imgix.net/blog/logo-db/apex-legends-logo/apex-legends-logo-svg-3.svg", teamname: "NRG", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 9, kills: 6},
+          {rank: 3, teamicon: "https://air-marketing-assets.imgix.net/blog/logo-db/apex-legends-logo/apex-legends-logo-svg-3.svg", teamname: "AD", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 7, kills: 6},
+          {rank: 4, teamicon: "https://air-marketing-assets.imgix.net/blog/logo-db/apex-legends-logo/apex-legends-logo-svg-3.svg", teamname: "SINGULARITY", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 5, kills: 1},
+          {rank: 5, teamicon: "https://air-marketing-assets.imgix.net/blog/logo-db/apex-legends-logo/apex-legends-logo-svg-3.svg", teamname: "CLOUD9", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 4, kills: 6},
         ],
         [
-          {rank: 6, teamicon: "src/assets/logo.png", teamname: "TSM", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 12, kills: 9},
-          {rank: 7, teamicon: "src/assets/logo.png", teamname: "NRG", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 9, kills: 6},
-          {rank: 8, teamicon: "src/assets/logo.png", teamname: "AD", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 7, kills: 6},
-          {rank: 9, teamicon: "src/assets/logo.png", teamname: "SINGULARITY", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 5, kills: 1},
-          {rank: 10, teamicon: "src/assets/logo.png", teamname: "CLOUD9", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 4, kills: 6},
+          {rank: 6, teamicon: "https://air-marketing-assets.imgix.net/blog/logo-db/apex-legends-logo/apex-legends-logo-svg-3.svg", teamname: "TSM", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 12, kills: 9},
+          {rank: 7, teamicon: "https://air-marketing-assets.imgix.net/blog/logo-db/apex-legends-logo/apex-legends-logo-svg-3.svg", teamname: "NRG", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 9, kills: 6},
+          {rank: 8, teamicon: "https://air-marketing-assets.imgix.net/blog/logo-db/apex-legends-logo/apex-legends-logo-svg-3.svg", teamname: "AD", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 7, kills: 6},
+          {rank: 9, teamicon: "https://air-marketing-assets.imgix.net/blog/logo-db/apex-legends-logo/apex-legends-logo-svg-3.svg", teamname: "SINGULARITY", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 5, kills: 1},
+          {rank: 10, teamicon: "https://air-marketing-assets.imgix.net/blog/logo-db/apex-legends-logo/apex-legends-logo-svg-3.svg", teamname: "CLOUD9", teammates: ["科比258", "礼堂丁真", "谷爱凌"], placement: 4, kills: 6},
         ]
       ]
     }
