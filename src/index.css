@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+  background-size: cover;
+  background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fmedia.9game.cn%2Fgamebase%2Fieu-gdc-pre-process%2Fimages%2F20221026%2F10%2F10%2F16390074d4b98adae1ddfe98fafb31a7.jpg&refer=http%3A%2F%2Fmedia.9game.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1669444370&t=dcba45d03b067d35ca4b0e9c601daed7");
+}
+
+#app {
+  font-family: APEX, Homo, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+}
